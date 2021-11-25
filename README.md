@@ -1,5 +1,5 @@
 # object_detection_flask
-This repo is built using modified templates created by [ibrahimokdadov:](https://github.com/ibrahimokdadov). The reference repo can be found [here:](https://github.com/ibrahimokdadov/upload_file_python)
+This repo is built using modified templates created by [ibrahimokdadov:](https://github.com/ibrahimokdadov). The reference repo can be found [here](https://github.com/ibrahimokdadov/upload_file_python)
 
 ## to run
 1. clone object_detection_flask repo
